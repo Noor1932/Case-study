@@ -1,0 +1,135 @@
+
+body{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.nav-link.active {
+    font-weight: 800;
+    text-decoration: underline;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color:black !important;
+
+}
+
+.navbar-collapse {
+    flex-grow: unset;
+}
+.navbar-expand-lg .navbar-nav li {
+    padding:5%;
+}
+nav{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+nav .hamburger {
+    width:180px ;
+    text-align: right;
+}
+
+.navbar-collapse{
+    text-align: right;
+  
+}
+
+.bs-linebreak {
+    height:50px;
+  }
+
+  .text-nowrap{
+      text-align: center;
+  }
+
+.img-fluid{
+    margin-bottom: 20%;
+}
+
+.myRole{
+    padding:10px;
+    margin:20px;
+}
+
+.lineBreak{
+    background-color:#EFEDE1;
+    padding:20px;
+}
+
+.User-R{
+    text-align:center;
+}
+
+.researchSec{
+    width:50%;
+    margin:20px;
+}
+
+h2{
+    text-align:center;
+}
+
+.card{
+    
+    margin:20px 20px 20px 20px;
+    
+
+}
+
+.TakeQ{
+    text-align: center;
+    font-weight: 400;
+}
+
+.makeBold{
+    font-weight: bold;
+}
+
+.SurveyNow{
+    text-align: center;
+}
+
+.Second{
+    text-align: center;
+    font-weight: 600;
+}
+
+.takAway{
+    text-align: center;
+    font-weight: 600;
+}
+
+.Spersona{
+    text-align: center;
+}
+.UserP{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+   
+}
+
+.feature{
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.centerH6{
+    padding-top:20px;
+    text-align: center;
+}
+
+h3{
+    text-align:center;
+}
+
+.Pbreak{
+    text-align: justify;
+}
