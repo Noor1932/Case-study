@@ -194,3 +194,79 @@ h3{
     background-color:black;
     color:white;
 }
+
+.footer{
+    margin-top: 30px;
+    background-color: #001d3d;
+    height:400px;
+    width:100%;
+    position:absolute;
+    
+
+}
+
+
+
+
+.footercontent{
+    display:flex;
+    display:inline-block;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.footer-bottom{
+    background-color:#003566;
+    color:#edede9;
+    font-size:15px;
+    font-style: italic;
+    font-weight:light;
+    text-align:center;
+    height:50px;
+    width:100%;
+    position:absolute;
+   bottom:0px;
+   left:0px;
+   padding-top:13px;
+
+}
+
+.email{
+    display: inline-block;
+    color:white;
+    font-size:20px;
+    align-content: center;
+    padding-left:30px;
+    padding-top:50px;
+    margin-bottom:40px;
+    
+}
+
+.footerimg{
+    width:40px;
+    justify-content: space-between;
+display: inline-block;
+margin-left: 10px;
+margin-top: 40px;
+align-items: center;
+
+}
+#footerbutton{
+    position: absolute;
+    left: 70%;
+    margin-top:35px;
+    padding:20px;
+    width:200px;
+    border-color: white;
+    background-color: #001d3d;
+    color:white;
+    border-radius:5px;
+    cursor: pointer;
+    
+}
+
+#footerbutton:hover{
+color:#001d3d;
+background-color: white;
+
+}
