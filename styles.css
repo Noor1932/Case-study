@@ -133,3 +133,64 @@ h3{
 .Pbreak{
     text-align: justify;
 }
+
+.UserF{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-top:30px;
+   
+}
+
+.Mwire{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-top:30px;
+}
+
+.Dwire{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-top:30px;
+}
+
+.GuideS{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-top:30px;
+}
+
+.Hwire{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-top:30px;
+}
+
+.Protoype{
+    background-color: #EFEDE1;
+    color:black;
+    justify-content: space-between;
+    margin-left: 80px !important;
+    border: none;
+    width:150px;
+    padding:10px;
+}
+
+.Protoype:hover{
+    background-color:black;
+    color:white;
+}
