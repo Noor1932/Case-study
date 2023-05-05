@@ -44,6 +44,10 @@ nav .hamburger {
       text-align: center;
   }
 
+  .media .align-middle{
+      text-align: center;
+  }
+
 .img-fluid{
     margin-bottom: 20%;
 }
